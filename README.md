@@ -2,4 +2,4 @@
 
 Hi, guys.
 
-I'm try to learn about JAVA, Oracle, JSP/Servlets...etc.
+I'm trying to learn JAVA, Oracle, JSP/Servlets...etc.
